@@ -10,7 +10,7 @@
 #include <linux/wireless.h>
 #include <X11/Xlib.h>
 
-#define UPDATE_INTERVAL 2
+#define UPDATE_INTERVAL 1
 #define CLOCK_FORMAT    "\x01%a: %d : %b - %H:%M"
 #define WIRED_DEVICE    "enp0s25"
 #define WIRELESS_DEVICE "wlp4s0"
